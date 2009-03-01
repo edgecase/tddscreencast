@@ -1,4 +1,5 @@
 require 'test/unit'
+require 'score'
 
 class ScoreTest < Test::Unit::TestCase
 
