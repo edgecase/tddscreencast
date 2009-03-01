@@ -16,6 +16,5 @@ class ScoreTest < Test::Unit::TestCase
     assert_equal 100, score([1])
     assert_equal 200, score([1,1])
   end
-  
-  
+
 end
