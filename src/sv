@@ -1,0 +1,5 @@
+#!/bin/sh
+
+git add .
+git ci -m $1
+git tag $1
